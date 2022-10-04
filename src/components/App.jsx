@@ -11,6 +11,6 @@ export const App = () => {
       }}
     >
       Image Finder
-    </div>
+    </div> 
   );
 };
